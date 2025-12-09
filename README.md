@@ -2,9 +2,7 @@
 -
 
 A simple yet engaging word-guessing game built using Python.
-This project demonstrates basic logic building, loops, string handling, and game design using pure Python.
-
-⸻
+This project demonstrates basic logic building, loops, string handling, and game design using pure Python
 
 📌 About the Project
 -
@@ -20,7 +18,7 @@ This Python version includes:
 
 It’s a perfect beginner-level Python project and helps in understanding conditions, loops, functions, and lists.
 
-⸻
+
 
 🚀 Features
 -
@@ -32,7 +30,7 @@ It’s a perfect beginner-level Python project and helps in understanding condit
 ✔ Ends game when word is guessed or attempts run out
 ✔ Beginner-friendly and easy to modify
 
-⸻
+
 
 🧠 What I Learned
 -
