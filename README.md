@@ -14,7 +14,7 @@ This Python version includes:
 	•	Limited chances
 	•	Tracking wrong guesses
 	•	Interactive gameplay
-	•	Clear visual progress ( **** pattern )
+	•	Clear visual progress ( pattern )
 
 It’s a perfect beginner-level Python project and helps in understanding conditions, loops, functions, and lists.
 
